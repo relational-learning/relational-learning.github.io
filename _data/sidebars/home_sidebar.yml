@@ -12,8 +12,8 @@ entries:
       url: /index.html
       output: web
     - title: About
-      url: /about
+      url: /about.html
       output: web
     - title: Download
-      url: /download
+      url: /download.html
       output: web

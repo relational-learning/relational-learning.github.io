@@ -6,6 +6,6 @@ topnav:
     - title: Docs
       url: /index.html
     - title: About
-      url: /about
+      url: /about.html
     - title: Download
-      url: /download
+      url: /download.html
