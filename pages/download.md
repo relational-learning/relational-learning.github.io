@@ -3,6 +3,7 @@ title: Download
 sidebar: home_sidebar
 permalink: download.html
 toc: false
+folder: download
 ---
 
 ## Download 1

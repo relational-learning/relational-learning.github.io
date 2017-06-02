@@ -3,6 +3,7 @@ title: About
 sidebar: home_sidebar
 permalink: about.html
 toc: false
+folder: about
 ---
 
 ## About the project
