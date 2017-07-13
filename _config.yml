@@ -95,4 +95,4 @@ description: "A collection of resources for relational machine learning"
 # needed for sitemap.xml file only
 url: https://relational-learning.github.io
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot
