@@ -92,3 +92,5 @@ description: "Used in RSS feed."
 
 # needed for sitemap.xml file only
 url: https://relational-learning.github.io
+
+theme: jekyll-theme-cayman
