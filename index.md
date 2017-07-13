@@ -7,10 +7,13 @@ Relational learning is machine learning for relational data. This site collects 
 
 ## A Very Short Introduction to Relational Learning
 
+## Relational Datasets
+
 ## Relational Learning Tasks
 
 ## Relational Inference Tasks
 
+## Readings
 
 ### Info for Editors
 
