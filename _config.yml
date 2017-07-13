@@ -87,7 +87,9 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Used in RSS feed."
+title: Welcome to Relational Learning
+
+description: "A collection of resources for relational machine learning"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
