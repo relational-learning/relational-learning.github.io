@@ -1,9 +1,11 @@
 
 # Welcome to Relational Learning
 
-Relational learning is machine learning for relational data. This site collects resources to support research and teaching in relational learning. It includes
+Relational learning is machine learning for relational data. Relational data provide information about entities and the relationships among them. This site collects resources to support research and teaching about relational learning. It includes
 
 (list resource types)
+
+Relational data have been studied in several communities, using different terminology. Other common terms include:
 
 ## A Very Short Introduction to Relational Learning
 
