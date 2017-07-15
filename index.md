@@ -33,6 +33,6 @@ This section provides links to readings with a broad scope, including survey art
 
 ### Info for Editors
 
-See the [Wiki](https://github.com/relational-learning/relational-learning.github.io/wiki/Github-Pages-Info)
+See the [Wiki](https://github.com/relational-learning/relational-learning.github.io/wiki/Github-Pages-Info) for a short customized collection of tips. The sidebar is an exhaustive list of authoring resources for the theme.
 
 
