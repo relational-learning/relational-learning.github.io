@@ -1,7 +1,7 @@
 ---
 title: Relational Learning Resources
 keywords: machine learning, relational data, graphical models, artificial intelligence, relational inference
-tags: [Overiew]
+tags: [Overview]
 sidebar: mydoc_sidebar
 permalink: index.html
 ---
