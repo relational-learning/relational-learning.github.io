@@ -14,10 +14,16 @@ Relational learning is machine learning for relational data. Relational data pro
 
 ## Relational Datasets
 
-We provide links to relational datasets and data formats.
-Relational data have been studied in several communities, using different terminology and different data formats. Other common terms for a relational dataset include the following. 
+This section provides links to relational datasets and data formats.
+Relational data have been studied in several communities, using different terminology and different data formats. Common terms for a relational dataset include the following. 
 
-(relational database, network, information, heterogenous, matrix, tensor, ground literals, model, facts (Prolog), triples, A-box. 
++ <i> Relational Database. </i> The most common relational format in industry based on the SQL standard.
++ <i> Network. </i> For network analysis, relational data can be visualized as a heterogeneous network with different types of nodes and (hyper)edges. 
++ <i> Matrix/Tensor </i>. In statistics and machine learning, data based on a relationship among two entities are represented using a matrix. Relationships involving more than two entities can be represented using a tensor. 
++ <i> Finite model, ground literals, facts. </i> The common representation in computational logic, including logic programming.
++ <i> A-box, triples, knowledge graph. </i> In description logic, semantic web ontologies, and the Resource Description Framework (RDF), relational data are also represented as collections of facts in a formal language. A knowledge graph visualizes the facts in a network. 
+
+Relational learning algorithms can be applied to any of these data representations, although specific implementations may require the input data to be in a specific format.
 
 ## Relational Learning Tasks
 
@@ -25,7 +31,7 @@ The site is organized around important learning tasks, and emphasizes approaches
 
 ## Relational Inference Tasks
 
-inference is important: goal of system, used as subroutine. Also relationship to AI.
+inference is important: goal of system, used as subroutine. Also relationship to AI, satisfiability solving, formal verification.
 
 ## Readings
 
