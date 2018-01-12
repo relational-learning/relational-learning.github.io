@@ -40,7 +40,7 @@ The site is organized around important learning tasks, and emphasizes approaches
 + <i> Relationship Extraction, Knowledge Graph Discovery. </i> Extracting structured relationships from unstructured data is an important application for relational learning. The prime example of unstructured data is natural language text, where relational learning supports information extraction and machine reading. Recently relationship detection in images has been introduced as a task for computer vision.
 
   
-## Relational Inference Tasks
+## Relational Inference
 
 We provide an overview of systems for relational inference. Inference is closely related to learning for two reasons: 
 
