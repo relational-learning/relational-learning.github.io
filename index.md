@@ -23,11 +23,21 @@ Relational data have been studied in several communities, using different termin
 + <i> Finite model, ground literals, facts. </i> The common representation in computational logic, including logic programming.
 + <i> A-box, triples, knowledge graph. </i> In description logic, semantic web ontologies, and the Resource Description Framework (RDF), relational data are also represented as collections of facts in a formal language. A knowledge graph visualizes the facts in a network. 
 
-Relational learning algorithms can be applied to any of these data representations, although specific implementations may require the input data to be in a specific format.
+Relational learning algorithms can be applied to any of these data representations.
 
 ## Relational Learning Tasks
 
-The site is organized around important learning tasks, and emphasizes approaches for which implementations are available. Tasks covered include, ....
+The site is organized around important learning tasks, and emphasizes approaches for which implementations are available. Tasks covered include the following.
+
++ <i> Classification. </i> Predicting a relational fact given other relational facts. Prediction types include:
+  + <i> Link-based Classification. </i> Predicting the attribute of an entity given its relationships.
+  + <i> Link Prediction </i>. Predicting the existence of a relationship between two entities.
+  + <i> Link Attribute Prediction. </i> Predicting an attribute of a relationship between two entities. Recommendation systems are an extensively studied example, where the task is to predict the rating of an item by a user.
++ <i> Generative Modeling. </i> Building a joint model of the attributes and relationships in a dataset. A common type of model utilizes <i> matrix/tensor factorization.
++ <i> Frequency Modeling. <i> Supporting queries about the frequency of events or patterns in a relational dataset. 
++ <i> Anomaly Detection, Exception Mining. <i> Identifying anomalous or exceptional entities or events.
+  
+  
 
 ## Relational Inference Tasks
 
