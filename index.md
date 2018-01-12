@@ -33,7 +33,7 @@ The site is organized around important learning tasks, and emphasizes approaches
   + <i> Link-based Classification. </i> Predicting the attribute of an entity given its relationships.
   + <i> Link Prediction. </i> Predicting the existence of a relationship between two entities.
   + <i> Link Attribute Prediction. </i> Predicting an attribute of a relationship between two entities. <i> Recommendation systems </i> are an extensively studied example, where the task is to predict the rating of an item by a user.
-+ <i> Generative Modeling. </i> Building a joint model of the attributes and relationships in a dataset. A common type of model utilizes <i> matrix/tensor factorization.
++ <i> Generative Modeling. </i> Building a joint model of the attributes and relationships in a dataset. A common type of model utilizes <i> matrix/tensor factorization. </i>
 + <i> Frequency Modeling. </i> Supporting queries about the frequency of events or patterns in a relational dataset. 
 + <i> Anomaly Detection, Exception Mining. </i> Identifying anomalous or exceptional entities or events. 
 + <i> Relationship Extraction, Knowledge Graph Discovery. </i>
